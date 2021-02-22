@@ -33,7 +33,7 @@ span{
  -ms-transform: translateX(0px);
  -o-transform: translateX(0px);
 }
-p{
+fancy{
     font-size: 60px;
     font-weight: 300;
     text-align: center;
