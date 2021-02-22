@@ -48,3 +48,10 @@ p{
     -ms-transform: translate(-50%, -50%);
     -o-transform: translate(-50%, -50%);
 }
+
+.note{
+    position:absolute;
+    top:80%;
+    left:80%;
+    font-size:20px;
+}
